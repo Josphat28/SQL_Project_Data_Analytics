@@ -50,7 +50,7 @@ This chart highlights the highest-paying remote data positions currently on the 
 
 ![Top Paying Roles](Project_sql/assets.sql/1_top_paying_remote_jobs.png)
 
-*Bar chart showing top 10 highest-paying remote data roles, with a smooth color gradient mapped to salary.*
+*Bar chart showing top 10 highest-paying remote data roles.*
 
 🔍 Key Findings.
 1. **Salary Range**: Compensation varied significantly, from $184K to $650K indicating significant salary potential.
